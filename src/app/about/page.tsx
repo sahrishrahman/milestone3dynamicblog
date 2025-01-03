@@ -6,7 +6,7 @@ const About = () => {
       <div className="text-center">
         <h2 className="text-4xl font-playfair font-bold text-[#5E3A87] mb-4">About Us</h2>
         <p className="text-lg text-gray-700 mb-8">
-        Welcome to our beauty blog, your ultimate source for all things beauty. Our goal is to share expert advice, handy tips, and inspiring content to help you embrace your unique style and boost your confidence. Whether you're new to the world of beauty or a seasoned pro, our blog is thoughtfully designed to meet all your beauty interests.        </p>
+        Welcome to our beauty blog, your ultimate source for all things beauty. Our goal is to share expert advice, handy tips, and inspiring content to help you embrace your unique style and boost your confidence. Whether you are new to the world of beauty or a seasoned pro, our blog is thoughtfully designed to meet all your beauty interests.        </p>
         <p className="text-md text-gray-600">
         Our mission is to uplift confidence and empower everyone to celebrate their natural beauty. We strive to make beauty approachable, enjoyable, and inclusive for all, regardless of background or experience. To us, beauty is not just about appearance—its about feeling comfortable, confident, and radiant in your own skin.
         </p>

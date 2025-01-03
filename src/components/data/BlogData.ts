@@ -19,7 +19,7 @@ import { Blog } from "@/types/blog";
       id: "2",
       title: "How to Choose the Right Foundation for Your Skin Type",
       image: "/foundation.png",
-      description: "Choosing the right foundation can be tricky. Here's how to find the perfect match for your skin.",
+      description: "Choosing the right foundation can be tricky. Here is how to find the perfect match for your skin.",
       content: `
         Selecting the ideal foundation requires understanding your skin type and its needs. For oily skin, matte foundations that control shine and contain oil-absorbing ingredients work best. Dry skin benefits from hydrating formulas infused with nourishing agents like hyaluronic acid or glycerin, offering a dewy, plump finish. Combination skin often requires a balanced formula—lightweight yet hydrating—while sensitive skin thrives with fragrance-free, non-comedogenic options designed to minimize irritation.
   
